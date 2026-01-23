@@ -126,7 +126,7 @@ Tips: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
 3.  Create a [Vite](https://vitejs.dev/) starter project:
     
     -   run `yarn create vite` in the directory where you want to work with this project
-    -   specify the name "Code"
+    -   specify the project name "Code" and package name "code"
     -   select Vanilla framework
     -   select TypeScript variant
     -   follow the further instructions
