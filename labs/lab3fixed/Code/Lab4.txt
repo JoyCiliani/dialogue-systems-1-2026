@@ -4,7 +4,7 @@ The poem S’i’ fosse foco imagines the speaker having enormous powers—being
 
 In my project I wanted to add background music to make the recitation more dramatic.
 I had selected a music track and uploaded it to the GitHub repository so it could be used in SSML. However, the voice I chose for the synthesis (Alessio DragonHD) does not support background audio, so the music could not be included in the final version.
-The string I intended to insert before the <voice> tag was:<mstts:backgroundaudio src="https://raw.githubusercontent.com/JoyCiliani/dialogue-systems-1-2026/refs/heads/main/labs/lab3fixed/Code/lab4.mp3" volume="2.0">
+The string I intended to insert before the <voice> tag was:<mstts:backgroundaudio src="https://raw.githubusercontent.com/JoyCiliani/dialogue-systems-1-2026/refs/heads/main/labs/lab3fixed/Code/audiobackgroundlab4.mp3" volume="2.0">
 
 
 <!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Name":"it-IT-Alessio:DragonHDLatestNeural","ShortName":"it-IT-Alessio:DragonHDLatestNeural","Locale":"it-IT","Id":"0fb5c4bc-a8e0-4bd7-adc6-7399f5224223","VoiceType":"StandardVoice"}]}-->
